@@ -1,0 +1,1 @@
+# SyncfusionExamples-how-to-fit-the-rows-based-on-the-formatted-value-in-Flutter-datatable-sfdatagrid
